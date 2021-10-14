@@ -1,5 +1,5 @@
 /*Return the sum of those two numbers plus the sum of all the numbers between 
-hem. The lowest number will not always come first.*/
+them. The lowest number will not always come first.*/
 
 function sumAll(arr) {
   let sum = 0;

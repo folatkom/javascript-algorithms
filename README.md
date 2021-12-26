@@ -7,8 +7,8 @@
 
 ## General info
 This project contains quite simple algorithm tasks which I managed to do:
-* during a course 'JavaScript Algorithms and Data Structures' on freecodecamp.org (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> folder freecodecamp
-* on edabit.com (https://edabit.com/challenges/javascript) -> folder edabit
+* during a course 'JavaScript Algorithms and Data Structures' on freecodecamp.org (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
+* on edabit.com (https://edabit.com/challenges/javascript) 
 
 Tasks are created by freecodecamp.org or edabit.com community, as well as most of the tests which I put at the end of the codes. All the solutions are my own work.
 

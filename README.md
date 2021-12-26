@@ -1,13 +1,16 @@
 # javascript-algorithms
 
 ## Table of content
-* [General info]
-* [Technologies]
-* [Setup]
+* General info
+* Technologies
+* Setup
 
 ## General info
-This project contains quite simple algorithm tasks which I managed to do during a course 'JavaScript Algorithms and Data Structures' on freecodecamp.org (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
-Tasks are created by freecodecamp.org, as well as most of the tests which I put at the end of the codes. All the solutions are my own work.
+This project contains quite simple algorithm tasks which I managed to do:
+* during a course 'JavaScript Algorithms and Data Structures' on freecodecamp.org (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) -> folder freecodecamp
+* on edabit.com (https://edabit.com/challenges/javascript) -> folder edabit
+
+Tasks are created by freecodecamp.org or edabit.com community, as well as most of the tests which I put at the end of the codes. All the solutions are my own work.
 
 ## Technologies
 Project is created with JavaScript ES6.
